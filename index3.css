@@ -1,5 +1,5 @@
 * {
-    outline: red .1em solid;
+    outline: pink .1em solid;
 }
 
 body { font-family: Helvetica, sans-serif;
@@ -25,7 +25,7 @@ div {
     list-style-type: none;
     padding: 0px;
     margin: 0px;
-    background-color: #2b2e36;
+    background-color: black ;
     width: 100%;
     
 } 
